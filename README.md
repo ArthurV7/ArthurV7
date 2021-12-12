@@ -1,7 +1,7 @@
-### Bom dia! Meu nome é Arthur Pinto 👋
+### Good Morning! My name is Arthur Pinto👋
 
-- 🔭 Atualmente estou trabalhando com Automações Web
-- 🌱 Estudando Python 3.10.1
+- 🔭 I'm currently working with Web Automations
+- 🌱 Learning Python 3.10.1
 
 <div align="center">
   <a href="https://github.com/ArthurV7">
