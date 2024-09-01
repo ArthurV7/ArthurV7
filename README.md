@@ -1,7 +1,7 @@
 ### Good Morning! My name is Arthur Velasco 👋
 
 - 🔭 I'm currently working with Web Automations
-- 🌱 Learning Python 3.12.1
+- 🌱 Learning Python 3.12.5
 
 <div align="center">
   <a href="https://github.com/ArthurV7">
