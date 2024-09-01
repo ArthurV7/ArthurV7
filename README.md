@@ -1,4 +1,4 @@
-### Good Morning! My name is Arthur Pinto👋
+### Good Morning! My name is Arthur Velasco 👋
 
 - 🔭 I'm currently working with Web Automations
 - 🌱 Learning Python 3.12.1
